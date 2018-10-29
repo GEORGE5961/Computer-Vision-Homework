@@ -10,18 +10,18 @@ Write your own implementations of the morphological **dilation and erosion opera
 
 It now only works on binary images which has only two values: 0 and 255.
 The foreground color is white(255) and the background color is black(0). In general, Erosion decreases the white area and dilation expands the white area. The kernel I used is the simplest square.
-The demo is shown in the following images. 
+The demo is shown in the following images. The effect is quite obvious. 
 
 #### Origin image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/origin.png?raw=true" width="60%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/origin.png?raw=true" width="40%" />
 
 #### Eroded image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/eroded.png?raw=true" width="60%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/eroded.png?raw=true" width="40%" />
 
 #### Dalited image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/dalited.png?raw=true" width="60%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/dalited.png?raw=true" width="40%" />
 
 
