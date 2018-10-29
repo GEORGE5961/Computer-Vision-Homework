@@ -14,14 +14,14 @@ The demo is shown in the following images. The effect is quite obvious.
 
 #### Origin image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/origin.png?raw=true" width="40%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/origin.png?raw=true" width="30%" />
 
 #### Eroded image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/eroded.png?raw=true" width="40%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/eroded.png?raw=true" width="30%" />
 
 #### Dalited image
 
-<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/dalited.png?raw=true" width="40%" />
+<img src="https://github.com/GEORGE5961/Computer-Vision-Homework/blob/master/hw1/dalited.png?raw=true" width="30%" />
 
 
