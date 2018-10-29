@@ -9,7 +9,9 @@ Write your own implementations of the morphological **dilation and erosion opera
 ### My demo
 
 It now only works on binary images which has only two values: 0 and 255.
+
 The foreground color is white(255) and the background color is black(0). In general, Erosion decreases the white area and dilation expands the white area. The kernel I used is the simplest square.
+
 The demo is shown in the following images. The effect is quite obvious. 
 
 #### Origin image
